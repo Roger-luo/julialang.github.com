@@ -12,7 +12,7 @@ them in all Julia related forums.
 
 * [julia-news](https://groups.google.com/group/julia-news) – low traffic mailing list for important announcements, such as new releases.
 * [julia-users][julia-users] – discussion around the usage of Julia. New users of Julia can ask their questions here. As a courtesy to others, do check the archives and documentation to see if a particular question is already answered.
-* [julia-dev](https://groups.google.com/group/julia-dev) – discussions related to the development of Julia itself.
+* [julia-dev](https://groups.google.com/group/julia-dev) – discussions related to the development of Julia itself. Note that this is not the primary forum for the development of Julia: most of the discussions take place on GitHub instead (see below).
 * [julia-stats](https://groups.google.com/group/julia-stats) – special purpose mailing list for discussions related to statistical programming with Julia. Topics of interest include DataFrame support, GLM modeling, and automatic generation of MCMC code for Bayesian models.
 * [julia-opt](https://groups.google.com/group/julia-opt) – discussions related to numerical optimization in julia. This includes Mathematical Programming (linear, mixed-integer, conic, semi-definite, etc.), constrained and unconstrained gradient-based and gradient-free optimization, and related topics.
 * [JuliaBox](https://groups.google.com/group/julia-box) – discussions related to running Julia in the so-called cloud.
@@ -80,6 +80,7 @@ QQ is a more convenient chat service for users in China: [About QQ](http://www.i
 * Julia learners – discussions around the usage of Julia: ID 254087649
 * JuliaLang China – discussions around the development of Julia community in China: ID 188374671
 * USTC (University of Science and Technology of China) Julia User Group: ID 316628299
+* Julia Programming - Academic and industry users of Julia in China: ID 513210135
 
 To join a QQ group, search for a QQ ID in the Tencent QQ service software or app.
 
@@ -98,6 +99,7 @@ North America
 * [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
 * [JuliaLangEs - México, D.F.](http://www.meetup.com/es/julialanges-mx/)
 * [NYC Julia User Group](http://www.meetup.com/NYC-Julia-User-Group/)
+* [Seattle Julia Users](http://www.meetup.com/Seattle-Julia-Users/)
 * [Southern California Julia Users](http://www.meetup.com/Southern-California-Julia-Users/)
 * [Triangle Julia Users (North Carolina)](http://www.meetup.com/Triangle-Julia-Users/)
 * [Ottawa Julia Meetup](http://www.meetup.com/Ottawa-Julia-Meetup/)
@@ -113,6 +115,7 @@ Asia
 
 * [Bangalore Julia User Group](http://www.meetup.com/Bangalore-Julia-User-Group/)
 * [Julia Tokyo](http://julia.tokyo/)
+* [Julia China](http://julia.org.cn/)
 
 Australia
 
